@@ -33,16 +33,16 @@
         "php": ">=7.4.1",
         "composer-runtime-api": "^2.1",
 
-        "typo3/cms-backend": "^11.5.3 || dev-main",
-        "typo3/cms-core": "^11.5.3 || dev-main",
-        "typo3/cms-extbase": "^11.5.3 || dev-main",
-        "typo3/cms-extensionmanager": "^11.5.3 || dev-main",
-        "typo3/cms-fluid": "^11.5.3 || dev-main",
-        "typo3/cms-frontend": "^11.5.3 || dev-main",
-        "typo3/cms-install": "^11.5.3 || dev-main",
+        "typo3/cms-backend": "^11.5.3 || ^12.0.0 || dev-main",
+        "typo3/cms-core": "^11.5.3 || ^12.0.0 || dev-main",
+        "typo3/cms-extbase": "^11.5.3 || ^12.0.0 || dev-main",
+        "typo3/cms-extensionmanager": "^11.5.3 || ^12.0.0 || dev-main",
+        "typo3/cms-fluid": "^11.5.3 || ^12.0.0 || dev-main",
+        "typo3/cms-frontend": "^11.5.3 || ^12.0.0 || dev-main",
+        "typo3/cms-install": "^11.5.3 || ^12.0.0 || dev-main",
 
-        "symfony/console": "^4.4 || ^5.0",
-        "symfony/process": "^4.4 || ^5.0",
+        "symfony/console": "^4.4 || ^5.0 || ^6.1",
+        "symfony/process": "^4.4 || ^5.0 || ^6.1",
         "helhum/config-loader": ">=0.9 <0.13"
     },
     "require-dev": {
